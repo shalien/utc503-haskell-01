@@ -4,19 +4,14 @@ Premier cours d'Haskell avec les fonctions :
 - somme
 - doubleMe
 - doubleUs
-
+- square
 
 **Execution**
 
 Lancer un terminal et taper :
 
 ```bash
-ghci
-```
-
-Puis dans ghci taper :
-```bash
-:l main.hs
+ghci main.hs
 ```
 
 pour charger le fichier puis tester en tapant :
@@ -25,6 +20,7 @@ pour charger le fichier puis tester en tapant :
 somme 10 18
 doubleMe 13
 doubleUs 90 87
+square 5
 ```
 
 

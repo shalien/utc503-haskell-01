@@ -8,3 +8,5 @@ doubleMe x = x + x
 doubleUs :: Num a => a -> a -> a
 doubleUs x y = doubleMe x + doubleMe y
 
+square :: Num a => a -> a
+square x = x * x
