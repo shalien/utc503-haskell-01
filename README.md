@@ -21,6 +21,7 @@ somme 10 18
 doubleMe 13
 doubleUs 90 87
 square 5
+map square [5, 4, 3, 2]
 ```
 
 
